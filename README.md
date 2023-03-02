@@ -1,7 +1,7 @@
 # Login Page with Complex Animations
 
 This project is a Flutter application that demonstrates the use of complex animations to show a loading effect and display screen elements smoothly. 
-`![Alt Text](working_app.gif)`
+![Alt Text](https://github.com/imklesley/login_page_using_complex_animations/blob/main/working_app.gif)
 
 ## Getting Started
 
