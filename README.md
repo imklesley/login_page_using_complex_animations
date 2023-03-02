@@ -1,16 +1,51 @@
-# animacoes_complexas
+# Login Page with Complex Animations
 
-Learning how to do complex animations
+This project is a Flutter application that demonstrates the use of complex animations to show a loading effect and display screen elements smoothly. 
+`![Alt Text](working_app.gif)`
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started, clone the repository and open the project in your favorite IDE.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project requires:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter (https://flutter.dev/) 
+
+## Installing
+
+To install the project, run the following command in the root directory of the project:
+
+```
+flutter pub get
+```
+
+## Usage
+
+To run the project, run the following command in the root directory of the project:
+
+```
+flutter run
+```
+
+## Features
+
+This project implements the following features:
+
+* Complex loading animation
+* Smooth screen transitions
+* Responsive design
+
+## Built With
+
+This project was built with: 
+
+* [Flutter](https://flutter.dev/) - The cross-platform mobile app SDK
+
+## Authors
+
+* **[Your Name]** - *Initial work* - [Your Github](https://github.com/your-username)
+
+##
+<p align="center">Developed by Klesley Gonçalves</p>
