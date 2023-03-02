@@ -41,12 +41,6 @@ To run the project, run the following command in the root directory of the proje
 flutter run
 ```
 
-## Built With
-
-This project was built with:
-
-- [Flutter](https://flutter.dev/) - The cross-platform mobile app SDK
-
 ##
 
 <p align="center">Developed by <span color="#007DFF" >Klesley Gonçalves</span></p>
