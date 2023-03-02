@@ -6,6 +6,15 @@ This project is a Flutter application that demonstrates the use of complex anima
   <img src="https://github.com/imklesley/login_page_using_complex_animations/blob/main/working_app.gif" alt="Working app"/>
 </p>
 
+
+## Features
+
+This project implements the following features:
+
+- Complex loading animation
+- Smooth screen transitions
+- Responsive design
+
 ## Getting Started
 
 To get started, clone the repository and open the project in your favorite IDE.
@@ -14,11 +23,11 @@ To get started, clone the repository and open the project in your favorite IDE.
 
 This project requires:
 
-- Flutter (https://flutter.dev/)
+- [Flutter](https://flutter.dev/)
 
 ## Installing
 
-To install the project, run the following command in the root directory of the project:
+To install the project dependecies, run the following command in the root directory of the project:
 
 ```
 flutter pub get
@@ -32,24 +41,12 @@ To run the project, run the following command in the root directory of the proje
 flutter run
 ```
 
-## Features
-
-This project implements the following features:
-
-- Complex loading animation
-- Smooth screen transitions
-- Responsive design
-
 ## Built With
 
 This project was built with:
 
 - [Flutter](https://flutter.dev/) - The cross-platform mobile app SDK
 
-## Authors
-
-- **[Your Name]** - _Initial work_ - [Your Github](https://github.com/your-username)
-
 ##
 
-<p align="center">Developed by Klesley Gonçalves</p>
+<p align="center">Developed by <span color="#007DFF" >Klesley Gonçalves</span></p>
